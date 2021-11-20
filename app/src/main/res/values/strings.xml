@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomChat</string>
+    <string name="logout">LogOut</string>
+</resources>
