@@ -6,15 +6,24 @@
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/bg.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/btn.xml" value="0.2703125" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/cursor.xml" value="0.14635416666666667" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/ic_glogo.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/ic_log_out.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/ic_login.xml" value="0.2703125" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/imagebg.xml" value="0.2703125" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/orange_element.xml" value="0.2703125" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/drawable/send.xml" value="0.2703125" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_androiddev.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_back_end.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_frone_end.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_full_stack.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/activity_webdevlopment.xml" value="0.24010416666666667" />
         <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/dialog_wait.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio Projects/RoomChat/app/src/main/res/layout/list_layout.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

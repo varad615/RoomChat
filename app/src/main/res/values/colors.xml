@@ -10,9 +10,11 @@
     <color name="background">#0066FF</color>
     <color name="btncolor">#4285F4</color>
     <color name="logout">#F44242</color>
+    <color name="hint">#EAEAEA</color>
     <!-- new colour pallet -->
     <color name="dark_background">#21333A</color>
     <color name="element_color">#FD7014</color>
     <color name="sub_color">#96A7AF</color>
+    <color name="textboxbackground">#E6FAFC</color>
 
 </resources>
